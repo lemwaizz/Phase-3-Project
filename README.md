@@ -1,5 +1,7 @@
 
 # Monkey-Pox Project
+![monkeypox-experts-give-virus-variants-new-names-l](https://user-images.githubusercontent.com/47500084/198153058-64fa4f74-9138-46c3-96c5-58eee1b1c82c.jpg)
+## 
 The aim of this project is to draw conclusions on the probability of one having smallpox as well as the correlation between the various illnesses and monkey-Pox.
 # Dataset
 https://www.kaggle.com/datasets/muhammad4hmed/monkeypox-patients-dataset
