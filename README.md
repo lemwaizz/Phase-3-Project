@@ -11,6 +11,7 @@ https://www.kaggle.com/datasets/muhammad4hmed/monkeypox-patients-dataset
 
 ## Objectives
 1.To predict whether a patient is negative or positive for monkeypox based on the symptoms they exhibit
+
 2.To analyze the various variables such as Sore Throat,Penile Oedema, Oral Lesions ,Systemic illness and STIs and know their relationship with monkeypox
 
 
