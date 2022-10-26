@@ -25,8 +25,8 @@ https://www.kaggle.com/datasets/muhammad4hmed/monkeypox-patients-dataset
 GNU General Public License v3.0
 
 
-## 🔗 Links
+## 🔗 Badges
 
-<img src="{https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />
+![image]({(https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)})
 
 
