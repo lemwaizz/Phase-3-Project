@@ -27,5 +27,5 @@ GNU General Public License v3.0
 
 ## 🔗 Badges
 
-[![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
